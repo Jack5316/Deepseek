@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # DeepSeek API Key
-API_KEY="sk-6414315861f140939369f2b335c69d16"
+API_KEY=""
 API_URL="https://api.deepseek.com/chat/completions"
 
 # Function to make API call
